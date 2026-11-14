@@ -1,9 +1,9 @@
 # Ntlahla Nongciki
 
-**Final-year Bachelor of Information Technology student at Nelson Mandela University**  
-**Aspiring Software Applications Developer | Gqeberha, South Africa | Open to relocation**
+**Bachelor of Information Technology Graduate**  
+**Information Technology | Software Development | Systems & Technology Solutions | Gqeberha, South Africa | Open to relocation**
 
-I build practical software solutions, with a focus on web and mobile application development, backend services, API integration and database-driven systems. I also have experience coordinating technical project work and collaborating on team-based software projects.
+I am an Information Technology graduate interested in using technology to solve practical problems. My project experience spans software development, backend services, web and mobile applications, API integration, database-driven systems and technical project coordination.
 
 ## Technical skills
 
@@ -51,4 +51,4 @@ Nelson Mandela University
 - [GitHub repositories](https://github.com/Ntlahla5408?tab=repositories)
 - Email: [ntlahlanongciki@gmail.com](mailto:ntlahlanongciki@gmail.com)
 
-I am interested in software development internships and junior developer opportunities where I can contribute to real projects, strengthen my engineering skills and continue learning.
+I am open to opportunities across the Information Technology field, including software development, systems analysis, database-related work, systems integration and other technology-focused roles where I can contribute and continue developing my skills.
