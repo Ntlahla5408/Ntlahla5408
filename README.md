@@ -25,6 +25,11 @@ A conference-centre booking system designed to support event booking submissions
 
 **Technologies:** C#, ASP.NET Core, Entity Framework Core, SQL Server, React.
 
+### [AI Productivity Assistant](https://github.com/Ntlahla5408/ai_productivity_assistant)
+An AI-assisted productivity workspace organised around chat, tasks, meetings, email and research workflows. The project integrates React, TypeScript and Supabase, with external AI services configured separately.
+
+**Technologies:** React, TypeScript, TanStack Start, Supabase, Tailwind CSS.
+
 ### [Personal Sticky Notes](https://github.com/Ntlahla5408/Personal_Sticky_Notes)
 A lightweight notes application focused on an installable, offline-friendly web experience and local data persistence.
 
