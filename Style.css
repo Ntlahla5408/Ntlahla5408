@@ -95,3 +95,25 @@ a { color: inherit; }
 @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
 }
+
+/* Additional CV-aligned portfolio sections */
+.education { background: var(--paper); }
+.experience { background: var(--soft); }
+.certifications { background: var(--soft); }
+.detail-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin-top: 28px; }
+.detail-card { padding: 25px; border: 1px solid var(--line); border-radius: 5px; background: var(--paper); }
+.detail-card h3, .cert-list h3 { margin: 0 0 6px; font-size: 1.08rem; }
+.detail-card p:not(.project-number), .detail-card li, .cert-list p { color: var(--muted); font-size: .91rem; }
+.detail-card ul { margin: 14px 0 0; padding-left: 19px; }
+.detail-meta { margin: 0 0 14px; color: var(--accent-dark) !important; font-size: .84rem !important; font-weight: 650; }
+.achievement-list { display: flex; flex-wrap: wrap; gap: 28px; margin-top: 22px; padding-top: 18px; border-top: 1px solid var(--line); }
+.achievement-list div { display: flex; flex-direction: column; gap: 2px; }
+.achievement-list strong { font-size: 1.65rem; letter-spacing: -.04em; }
+.achievement-list span { color: var(--muted); font-size: .82rem; }
+.cert-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 28px; margin-top: 24px; }
+.cert-list div { padding: 17px 0; border-top: 1px solid var(--line); }
+.cert-list p { margin: 0; }
+@media (max-width: 600px) {
+    .detail-grid, .cert-list { grid-template-columns: 1fr; }
+    .detail-card { padding: 21px; }
+}
