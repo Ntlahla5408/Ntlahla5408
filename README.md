@@ -3,31 +3,42 @@
 **Final-year Bachelor of Information Technology student at Nelson Mandela University**  
 **Aspiring Software Applications Developer | Gqeberha, South Africa | Open to relocation**
 
-I enjoy building practical software solutions, particularly backend services, mobile applications, API integrations and database-driven systems. My project experience includes developing web APIs, building application interfaces, working with relational databases and coordinating technical work.
+I build practical software solutions, with a focus on web and mobile application development, backend services, API integration and database-driven systems. I also have experience coordinating technical project work and collaborating on team-based software projects.
 
 ## Technical skills
 
-- **Languages and frameworks:** C#, ASP.NET Core, JavaScript, React, React Native, Expo
-- **Data and backend:** PostgreSQL, Supabase, SQL Server, Entity Framework Core, REST APIs
-- **Integrations:** Yoco API, Google Maps API
-- **Tools:** Git, GitHub, Render, Postman, Visual Studio, VS Code
+- **Languages:** C#, Java, JavaScript, SQL
+- **Frameworks and platforms:** ASP.NET Core, Entity Framework Core, React, React Native, Expo
+- **Databases:** PostgreSQL, Supabase, SQL Server
+- **API integration:** REST APIs, Yoco API, Google Maps API
+- **Tools and workflow:** Git, GitHub, Render, Postman, Visual Studio, VS Code
 
-## Selected projects
+## Featured projects
 
-### [GrabnBite](https://github.com/Mega-X-Industries/GrabnBite)
-A food-ordering platform project involving an ASP.NET Core backend and a React Native mobile application. My contributions span backend development, API integration and technical team coordination.
+### [GrubnBite](https://github.com/Mega-X-Industries/GrabnBite)
+A food-delivery platform with an ASP.NET Core backend and an Expo/React Native mobile application. My contributions include software development, API integrations and technical team coordination.
 
-**Technologies:** C#, ASP.NET Core, Entity Framework Core, React Native, PostgreSQL, Yoco API, Google Maps API.
+**Technologies:** C#, ASP.NET Core, Entity Framework Core, React Native, Expo, PostgreSQL, Yoco, Google Maps API.
 
 ### [DibaBookings](https://github.com/Ntlahla5408/DibaBookings)
-A conference-centre booking system designed around event organiser booking submissions and staff and administrator review workflows.
+A conference-centre booking system designed to support event booking submissions and staff and administrator review workflows.
 
-**Technologies:** C#, ASP.NET Core, Entity Framework Core, SQL Server.
+**Technologies:** C#, ASP.NET Core, Entity Framework Core, SQL Server, React.
+
+### [AI Productivity Assistant](https://github.com/Ntlahla5408/ai_productivity_assistant)
+An AI-assisted productivity workspace organised around chat, tasks, meetings, email and research workflows. The project integrates React, TypeScript and Supabase, with external AI services configured separately.
+
+**Technologies:** React, TypeScript, TanStack Start, Supabase, Tailwind CSS.
 
 ### [Personal Sticky Notes](https://github.com/Ntlahla5408/Personal_Sticky_Notes)
-A lightweight notes application exploring a simple installable web experience, local persistence and offline-friendly access.
+A lightweight notes application focused on an installable, offline-friendly web experience and local data persistence.
 
-**Technologies:** JavaScript, HTML, CSS, Progressive Web App concepts.
+**Technologies:** JavaScript, HTML, CSS, Progressive Web App technologies.
+
+### [MegaXWebsite](https://github.com/Mega-X-Industries/MegaXWebsite)
+A responsive corporate website. My contributions include improving mobile navigation and scroll-based presentation.
+
+**Technologies:** HTML, CSS, JavaScript.
 
 ## Education
 
@@ -40,4 +51,4 @@ Nelson Mandela University
 - [GitHub repositories](https://github.com/Ntlahla5408?tab=repositories)
 - Email: [ntlahlanongciki@gmail.com](mailto:ntlahlanongciki@gmail.com)
 
-I am interested in software development internships and junior opportunities where I can contribute, learn and grow as a developer.
+I am interested in software development internships and junior developer opportunities where I can contribute to real projects, strengthen my engineering skills and continue learning.
