@@ -38,6 +38,6 @@ Nelson Mandela University
 
 - [LinkedIn](https://www.linkedin.com/in/ntlahla-nongciki-a1a603303/)
 - [GitHub repositories](https://github.com/Ntlahla5408?tab=repositories)
-- Email: [ntlahhmafuya@gmail.com](mailto:ntlahhmafuya@gmail.com)
+- Email: [ntlahlanongciki@gmail.com](mailto:ntlahlanongciki@gmail.com)
 
 I am interested in software development internships and junior opportunities where I can contribute, learn and grow as a developer.
